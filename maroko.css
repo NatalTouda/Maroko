@@ -25,7 +25,7 @@ p.white {
     color: white;
 }
 
-ul.em {
+ul {
     text-decoration: underline;
     font-style: italic;
 }

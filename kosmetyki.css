@@ -1,0 +1,29 @@
+html {
+    background-color: darkred;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 5px;
+    border: 5px solid;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+    color: red;
+}
+
+.zm {
+    background-image: url('ZM-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(245, 172, 13);
+}
+
+p {
+    font-size: 2em;
+    text-align: center;
+}
