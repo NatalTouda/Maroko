@@ -27,31 +27,20 @@ h2 {
 p {
     font-size: 2em;
     text-align: center;
+    width: 33%;
 }
 
-.box {
-    width: 400px;
-    height: 200px;
-}
-
-#h2r {
-    float: right;
-    height: 200px;
-    width: 400px;
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-#argan {}
-
-#p1 {
-    float: left;
-}
-
-#p2 {
+#h2 {
     float: center;
 }
 
+#p1 {}
+
+#p2 {
+    top: 10px;
+    left: 400px;
+}
+
 #p3 {
-    float: right;
+    top: 100px left 300px;
 }
