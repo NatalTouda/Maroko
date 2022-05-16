@@ -28,6 +28,10 @@ p.white {
     text-align: center;
 }
 
+#r {
+    float: right;
+}
+
 #li {
     float: left;
 }
