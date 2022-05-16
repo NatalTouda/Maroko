@@ -1,75 +1,75 @@
-body {
-    background-image: url('ZM-2.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-h1 {
-    text-align: center;
-    border-radius: 5px;
-    border: 5px solid;
-    text-align: center;
-    color: white;
-}
-
-div#a {
-    position: relative;
-}
-
-div#zm {
-    position: relative;
-    text-align: center;
-    color: rgb(245, 172, 13);
-}
-
-p {
-    font-size: 1.5em;
-}
-
-.p {
-    font-weight: bold;
-    font-size: 2em;
-    color: red;
-    text-align: center;
-}
-
-.p1 {
-    text-align: center;
-}
-
-#p1 {
-    width: 30%;
-    padding-left: 0.75%;
-    padding-right: 0.75%;
-    float: left;
-    border: solid;
-    border-color: black;
-    border-top: 0px;
-    border-bottom: 0px;
-    height: 1000px;
-    text-align: center;
-}
-
-#p2 {
-    width: 33%;
-    float: right;
-    border: solid;
-    border-color: black;
-    border-top: 0px;
-    border-bottom: 0px;
-    height: 1000px;
-    padding-left: 0.75%;
-    padding-right: 0.75%;
-    text-align: center;
-}
-
-#p3 {
-    width: 33%;
-    float: right;
-    height: 1000px;
-    text-align: center;
-}
+    body {
+        background-image: url('ZM-2.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    h1 {
+        text-align: center;
+        border-radius: 5px;
+        border: 5px solid;
+        text-align: center;
+        color: white;
+    }
+    
+    div#a {
+        position: relative;
+    }
+    
+    div#zm {
+        position: relative;
+        text-align: center;
+        color: rgb(245, 172, 13);
+    }
+    
+    p {
+        font-size: 1.5em;
+    }
+    
+    .p {
+        font-weight: bold;
+        font-size: 2em;
+        color: red;
+        text-align: center;
+    }
+    
+    .p1 {
+        text-align: center;
+    }
+    
+    #p1 {
+        width: 30%;
+        padding-left: 0.75%;
+        padding-right: 0.75%;
+        float: left;
+        border: solid;
+        border-color: black;
+        border-top: 0px;
+        border-bottom: 0px;
+        height: 1000px;
+        text-align: center;
+    }
+    
+    #p2 {
+        width: 33%;
+        float: right;
+        border: solid;
+        border-color: black;
+        border-top: 0px;
+        border-bottom: 0px;
+        height: 1000px;
+        padding-left: 0.75%;
+        padding-right: 0.75%;
+        text-align: center;
+    }
+    
+    #p3 {
+        width: 33%;
+        float: right;
+        height: 1000px;
+        text-align: center;
+    }

@@ -3,6 +3,14 @@ html {
     background-color: burlywood;
 }
 
+section.l {
+    float: left;
+}
+
+section.r {
+    float: right;
+}
+
 h1 {
     border-radius: 5px;
     font-size: 6em;
@@ -15,14 +23,19 @@ p.srodek {
     text-align: center;
 }
 
+p.white {
+    color: white;
+    text-align: center;
+}
+
+#li {
+    float: left;
+}
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-p.white {
-    color: white;
 }
 
 ul {
