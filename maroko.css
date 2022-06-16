@@ -59,3 +59,17 @@ ul {
 nav {
     float: left;
 }
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+header {
+    position: relative;
+}
+
+#logo-img {
+    background-image: url("flag.jpg")
+}
