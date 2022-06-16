@@ -3,11 +3,15 @@ html {
     background-color: burlywood;
 }
 
-section.l {
+* {
+    box-sizing: border-box;
+}
+
+.l {
     float: left;
 }
 
-section.r {
+.r {
     float: right;
 }
 
@@ -33,7 +37,10 @@ p.white {
 }
 
 #li {
-    float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
 }
 
 img {
@@ -45,4 +52,10 @@ img {
 ul {
     text-decoration: underline;
     font-style: italic;
+}
+
+@media (min-width: 1200px) {}
+
+nav {
+    float: left;
 }
